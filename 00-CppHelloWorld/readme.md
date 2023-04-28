@@ -3,6 +3,7 @@
 ###   ◦ Legajo 177.822-5.
 ###   ◦ Revesz.
 ###   ◦ Agustin.
+## • Versión del compilador: g++ 12.2.0 
 ## • TP0 - Hello World
 "Hello, World!" en C++
 4.1. Objetivos
